@@ -16,6 +16,7 @@ https://ianpas.github.io/auto-format/
 * [如何使用公式](https://github.com/ianpas/auto-format/issues/5)
 * [如何使用款和项](https://github.com/ianpas/auto-format/issues/6)
 * [如何写参考文献](https://github.com/ianpas/auto-format/issues/7)
+* [如何添加封面](https://github.com/ianpas/auto-format/issues/10)
 
 # 开源许可证
 MIT
