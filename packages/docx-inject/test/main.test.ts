@@ -133,7 +133,7 @@ test("package", async () =>
     const template_docx = await LoadPackage(template_path);
 
     await InjectPackage({ input: input_docx, standard: template_docx });
-    const result_path = Resolve(__dirname, "./common/result.docx");
+    const result_path = Resolve(__dirname, "./out/result.docx");
     await SavePackage(result_path, input_docx);
 });
 

@@ -23,10 +23,10 @@ test("save docx", async () =>
     const __package = await LoadPackage(resolve(__dirname, "./common/replace-document.docx"));
 
     const content = "test";
-    await SavePackage(resolve(__dirname, "./common/save-docx.docx"), __package.Save({ content, name: "document" }));
+    await SavePackage(resolve(__dirname, "./out/save-docx.docx"), __package.Save({ content, name: "document" }));
 
     {
-        const __package = await LoadPackage(resolve(__dirname, "./common/save-docx.docx"));
+        const __package = await LoadPackage(resolve(__dirname, "./out/save-docx.docx"));
         expect(await __package.Read("document")).toEqual(content);
     }
 });
