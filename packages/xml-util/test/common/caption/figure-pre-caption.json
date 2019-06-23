@@ -1,0 +1,45 @@
+{
+    "label": {
+      "elements": [
+        {
+          "attributes": {
+            "xml:space": "preserve"
+          },
+          "elements": [
+            {
+              "text": "图",
+              "type": "text"
+            }
+          ],
+          "name": "w:t",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    "pre": [
+      {
+        "elements": [
+          {
+            "attributes": {
+              "w:val": "ac"
+            },
+            "name": "w:pStyle",
+            "type": "element"
+          }
+        ],
+        "name": "w:pPr",
+        "type": "element"
+      },
+      {
+        "attributes": {
+          "w:id": "0",
+          "w:name": "_Ref531167258"
+        },
+        "name": "w:bookmarkStart",
+        "type": "element"
+      },
+      null
+    ]
+  }

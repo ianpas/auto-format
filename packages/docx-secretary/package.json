@@ -1,0 +1,36 @@
+{
+    "name": "docx-secretary",
+    "version": "0.0.1",
+    "description": "make sense of the json repre of document, and adding structure info to it",
+    "main": "./build/index.js",
+    "files": [
+        "./build"
+    ],
+    "types": "./build/index.d.ts",
+    "scripts": {
+        "test": "jest",
+        "build": "gulp build"
+    },
+    "author": "ianpas",
+    "license": "MIT",
+    "dependencies": {
+        "docx-numbering": "file:../docx-numbering",
+        "docx-style": "file:../docx-style",
+        "xml-util": "file:../xml-util"
+    },
+    "devDependencies": {
+        "file-util": "file:../file-util",
+        "@types/node": "^10.10.2",
+        "@types/jest": "^23.3.2",
+        "jest": "^23.6.0",
+        "ts-jest": "^23.10.1",
+        "del": "^3.0.0",
+        "dts-bundle": "^0.7.3",
+        "gulp": "^4.0.0",
+        "gulp-rename": "^1.4.0",
+        "gulp-typescript": "^5.0.0-alpha.3",
+        "gulp-util": "^3.0.8",
+        "typescript": "^3.0.3",
+        "watchify": "^3.11.0"
+    }
+}

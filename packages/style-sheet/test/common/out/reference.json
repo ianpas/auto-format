@@ -1,0 +1,13 @@
+{
+    "type": "element",
+    "name": "w:pPr",
+    "elements": [
+        {
+            "type": "element",
+            "name": "w:pStyle",
+            "attributes": {
+                "w:val": "a"
+            }
+        }
+    ]
+}

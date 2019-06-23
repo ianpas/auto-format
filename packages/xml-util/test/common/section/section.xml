@@ -1,0 +1,97 @@
+<w:body>
+  <w:p w:rsidR="000B18D1" w:rsidRDefault="005D5948" w:rsidP="005D5948">
+    <w:pPr>
+      <w:pStyle w:val="af8"/>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+      </w:rPr>
+      <w:t>此处为论文题目</w:t>
+    </w:r>
+  </w:p>
+  <w:p w:rsidR="00C02E29" w:rsidRPr="00FB6D1A" w:rsidRDefault="00C02E29" w:rsidP="00B47909">
+    <w:pPr>
+      <w:pStyle w:val="afa"/>
+      <w:rPr>
+        <w:vanish/>
+        <w:specVanish/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:tab/>
+    </w:r>
+    <w:r w:rsidRPr="00B47909">
+      <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:spacing w:val="240"/>
+        <w:kern w:val="0"/>
+        <w:fitText w:val="960" w:id="1821032448"/>
+      </w:rPr>
+      <w:t>学</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B47909">
+      <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:kern w:val="0"/>
+        <w:fitText w:val="960" w:id="1821032448"/>
+      </w:rPr>
+      <w:t>生</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+      </w:rPr>
+      <w:t>：</w:t>
+    </w:r>
+  </w:p>
+  <w:p w:rsidR="00B45FD9" w:rsidRDefault="00B45FD9" w:rsidP="005D5948">
+    <w:pPr>
+      <w:rPr>
+        <w:b/>
+        <w:bCs/>
+        <w:lang w:val="zh-CN"/>
+      </w:rPr>
+      <w:sectPr w:rsidR="00B45FD9" w:rsidSect="00682DCF">
+        <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+        <w:pgMar w:top="1701" w:right="1134" w:bottom="1418" w:left="1701" w:header="720" w:footer="720" w:gutter="0"/>
+        <w:cols w:space="720"/>
+        <w:docGrid w:linePitch="326"/>
+      </w:sectPr>
+    </w:pPr>
+  </w:p>
+  <w:p w:rsidR="00B45FD9" w:rsidRDefault="00B45FD9" w:rsidP="00B45FD9">
+    <w:pPr>
+      <w:pStyle w:val="1"/>
+      <w:spacing w:before="240" w:after="240"/>
+    </w:pPr>
+    <w:bookmarkStart w:id="0" w:name="_Toc532459467"/>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+      </w:rPr>
+      <w:lastRenderedPageBreak/>
+      <w:t>绪论</w:t>
+    </w:r>
+    <w:bookmarkEnd w:id="0"/>
+  </w:p>
+  <w:p w:rsidR="00B45FD9" w:rsidRDefault="00B45FD9" w:rsidP="00B45FD9">
+    <w:pPr>
+      <w:pStyle w:val="2"/>
+    </w:pPr>
+    <w:bookmarkStart w:id="1" w:name="_Toc532459468"/>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+      </w:rPr>
+      <w:t>节标题</w:t>
+    </w:r>
+    <w:bookmarkEnd w:id="1"/>
+  </w:p>
+  <w:sectPr w:rsidR="00B45FD9" w:rsidRPr="00B45FD9" w:rsidSect="00682DCF">
+    <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+    <w:pgMar w:top="1701" w:right="1134" w:bottom="1418" w:left="1701" w:header="720" w:footer="720" w:gutter="0"/>
+    <w:cols w:space="720"/>
+    <w:docGrid w:linePitch="326"/>
+  </w:sectPr>
+</w:body>

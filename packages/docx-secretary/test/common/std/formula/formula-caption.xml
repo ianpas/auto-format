@@ -1,0 +1,51 @@
+<w:p w:rsidR="00A0473C" w:rsidRDefault="00A0473C" w:rsidP="00A0473C">
+  <w:pPr>
+    <w:pStyle w:val="af5"/>
+  </w:pPr>
+  <w:r>
+    <w:t xml:space="preserve"> </w:t>
+  </w:r>
+  <w:bookmarkStart w:id="0" w:name="_Ref531166579"/>
+  <w:r>
+    <w:t>(</w:t>
+  </w:r>
+  <w:fldSimple w:instr=" STYLEREF 1 \s ">
+    <w:r>
+      <w:rPr>
+        <w:noProof/>
+      </w:rPr>
+      <w:t>1</w:t>
+    </w:r>
+  </w:fldSimple>
+  <w:r>
+    <w:t>.</w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="begin"/>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> SEQ </w:instrText>
+  </w:r>
+  <w:r>
+    <w:instrText>公式</w:instrText>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> \* ARABIC \s 1 </w:instrText>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="separate"/>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:noProof/>
+    </w:rPr>
+    <w:t>1</w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="end"/>
+  </w:r>
+  <w:r>
+    <w:t>)</w:t>
+  </w:r>
+  <w:bookmarkEnd w:id="0"/>
+</w:p>

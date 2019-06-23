@@ -1,0 +1,7 @@
+.nav
+{
+    height: 100vh;
+    box-sizing: border-box;
+    border-right: 1px solid #EEE;
+    overflow-y: auto;
+}

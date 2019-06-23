@@ -1,0 +1,62 @@
+{
+  "chapter_title": {
+    "style": {
+      "elements": [
+        {
+          "attributes": { "w:val": "1" },
+          "name": "w:pStyle",
+          "type": "element"
+        },
+        {
+          "attributes": {
+            "w:after": "240",
+            "w:before": "240"
+          },
+          "name": "w:spacing",
+          "type": "element"
+        }
+      ],
+      "name": "w:pPr",
+      "type": "element"
+    }
+  },
+  "normal": {
+    "style": {
+      "elements": [
+        {
+          "attributes": { "w:val": "a3" },
+          "name": "w:pStyle",
+          "type": "element"
+        }
+      ],
+      "name": "w:pPr",
+      "type": "element"
+    }
+  },
+  "section_title": {
+    "style": {
+      "elements": [
+        {
+          "attributes": { "w:val": "2" },
+          "name": "w:pStyle",
+          "type": "element"
+        }
+      ],
+      "name": "w:pPr",
+      "type": "element"
+    }
+  },
+  "subsection_title": {
+    "style": {
+      "elements": [
+        {
+          "attributes": { "w:val": "3" },
+          "name": "w:pStyle",
+          "type": "element"
+        }
+      ],
+      "name": "w:pPr",
+      "type": "element"
+    }
+  }
+}

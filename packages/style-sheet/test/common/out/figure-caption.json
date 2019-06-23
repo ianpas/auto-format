@@ -1,0 +1,287 @@
+{
+  "caption_space": {
+    "elements": [
+      {
+        "attributes": {
+          "xml:space": "preserve"
+        },
+        "elements": [
+          {
+            "text": " ",
+            "type": "text"
+          }
+        ],
+        "name": "w:t",
+        "type": "element"
+      }
+    ],
+    "name": "w:r",
+    "type": "element"
+  },
+  "fields": [
+    {
+      "elements": [
+        {
+          "attributes": {
+            "w:fldCharType": "begin"
+          },
+          "name": "w:fldChar",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "xml:space": "preserve"
+          },
+          "elements": [
+            {
+              "text": " STYLEREF 1 \\s ",
+              "type": "text"
+            }
+          ],
+          "name": "w:instrText",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "w:fldCharType": "separate"
+          },
+          "name": "w:fldChar",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "elements": [
+            {
+              "name": "w:noProof",
+              "type": "element"
+            }
+          ],
+          "name": "w:rPr",
+          "type": "element"
+        },
+        {
+          "elements": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ],
+          "name": "w:t",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "w:fldCharType": "end"
+          },
+          "name": "w:fldChar",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "elements": [
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ],
+          "name": "w:t",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "w:fldCharType": "begin"
+          },
+          "name": "w:fldChar",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "xml:space": "preserve"
+          },
+          "elements": [
+            {
+              "text": " SEQ ",
+              "type": "text"
+            }
+          ],
+          "name": "w:instrText",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "elements": [
+            {
+              "attributes": {
+                "w:hint": "eastAsia"
+              },
+              "name": "w:rFonts",
+              "type": "element"
+            }
+          ],
+          "name": "w:rPr",
+          "type": "element"
+        },
+        {
+          "elements": [
+            {
+              "text": "图",
+              "type": "text"
+            }
+          ],
+          "name": "w:instrText",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "xml:space": "preserve"
+          },
+          "elements": [
+            {
+              "text": " \\* ARABIC \\s 1 ",
+              "type": "text"
+            }
+          ],
+          "name": "w:instrText",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "w:fldCharType": "separate"
+          },
+          "name": "w:fldChar",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "elements": [
+            {
+              "name": "w:noProof",
+              "type": "element"
+            }
+          ],
+          "name": "w:rPr",
+          "type": "element"
+        },
+        {
+          "elements": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ],
+          "name": "w:t",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    {
+      "elements": [
+        {
+          "attributes": {
+            "w:fldCharType": "end"
+          },
+          "name": "w:fldChar",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    }
+  ],
+  "label": {
+    "elements": [
+      {
+        "attributes": {
+          "xml:space": "preserve"
+        },
+        "elements": [
+          {
+            "text": "图",
+            "type": "text"
+          }
+        ],
+        "name": "w:t",
+        "type": "element"
+      }
+    ],
+    "name": "w:r",
+    "type": "element"
+  },
+  "style": {
+    "elements": [
+      {
+        "attributes": {
+          "w:val": "ae"
+        },
+        "name": "w:pStyle",
+        "type": "element"
+      }
+    ],
+    "name": "w:pPr",
+    "type": "element"
+  }
+}

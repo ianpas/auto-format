@@ -1,0 +1,80 @@
+{
+    "style": {
+        "attributes": {
+            "w:rsidP": "00B47909",
+            "w:rsidR": "00173584",
+            "w:rsidRDefault": "00FB6D1A",
+            "w:rsidRPr": "00A80C89"
+        },
+        "elements": [
+            {
+                "elements": [
+                    {
+                        "attributes": {
+                            "w:val": "afc"
+                        },
+                        "name": "w:pStyle",
+                        "type": "element"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "name": "w:vanish",
+                                "type": "element"
+                            },
+                            {
+                                "name": "w:specVanish",
+                                "type": "element"
+                            }
+                        ],
+                        "name": "w:rPr",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:pPr",
+                "type": "element"
+            },
+            {
+                "elements": [
+                    {
+                        "name": "w:tab",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:r",
+                "type": "element"
+            },
+            {
+                "elements": [
+                    {
+                        "elements": [
+                            {
+                                "attributes": {
+                                    "w:hint": "eastAsia"
+                                },
+                                "name": "w:rFonts",
+                                "type": "element"
+                            }
+                        ],
+                        "name": "w:rPr",
+                        "type": "element"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "text": "指导教师：",
+                                "type": "text"
+                            }
+                        ],
+                        "name": "w:t",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:r",
+                "type": "element"
+            }
+        ],
+        "name": "w:p",
+        "type": "element"
+    }
+}

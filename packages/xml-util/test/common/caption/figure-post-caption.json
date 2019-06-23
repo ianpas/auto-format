@@ -1,0 +1,32 @@
+{
+    "caption": {
+      "elements": [
+        {
+          "attributes": {
+            "xml:space": "preserve"
+          },
+          "elements": [
+            {
+              "text": " 水分子",
+              "type": "text"
+            }
+          ],
+          "name": "w:t",
+          "type": "element"
+        }
+      ],
+      "name": "w:r",
+      "type": "element"
+    },
+    "post": [
+      {
+        "attributes": {
+          "w:id": "0"
+        },
+        "name": "w:bookmarkEnd",
+        "type": "element"
+      },
+      null,
+      null
+    ]
+  }

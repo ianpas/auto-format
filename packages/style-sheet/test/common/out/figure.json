@@ -1,0 +1,14 @@
+{
+    "style": {
+      "elements": [
+        {
+          "attributes": { "w:val": "ab" },
+          "name": "w:pStyle",
+          "type": "element"
+        }
+      ],
+      "name": "w:pPr",
+      "type": "element"
+    }
+  }
+  

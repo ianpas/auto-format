@@ -1,0 +1,28 @@
+{
+  "name": "file-util",
+  "version": "0.0.1",
+  "description": "file util for test data",
+  "main": "./build/index.js",
+  "files": [
+    "./build"
+  ],
+  "scripts": {
+    "build": "gulp build"
+  },
+  "types": "./build/index.d.ts",
+  "author": "ianpas",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^23.3.2",
+    "@types/node": "^10.10.2",
+    "del": "^3.0.0",
+    "dts-bundle": "^0.7.3",
+    "gulp": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "gulp-util": "^3.0.8",
+    "typescript": "^3.0.3",
+    "watchify": "^3.11.0"
+  }
+}

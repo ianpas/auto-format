@@ -1,0 +1,41 @@
+<w:p w:rsidR="001A1C36" w:rsidRDefault="001A1C36" w:rsidP="001A1C36">
+  <w:pPr>
+    <w:pStyle w:val="a3"/>
+    <w:jc w:val="center"/>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+  </w:pPr>
+  <w:bookmarkStart w:id="0" w:name="_Ref531787913"/>
+  <w:r>
+    <w:t>公式</w:t>
+  </w:r>
+  <w:r>
+    <w:t xml:space="preserve"> </w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="begin"/>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> SEQ </w:instrText>
+  </w:r>
+  <w:r>
+    <w:instrText>公式</w:instrText>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> \* ARABIC </w:instrText>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="separate"/>
+  </w:r>
+  <w:r w:rsidR="00DE53D7">
+    <w:rPr>
+      <w:noProof/>
+    </w:rPr>
+    <w:t>1</w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="end"/>
+  </w:r>
+  <w:bookmarkEnd w:id="0"/>
+</w:p>

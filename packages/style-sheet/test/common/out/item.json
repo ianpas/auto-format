@@ -1,0 +1,22 @@
+{
+    "style": {
+        "elements": [
+            {
+                "attributes": {
+                    "w:val": "a"
+                },
+                "name": "w:pStyle",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:firstLine": "480"
+                },
+                "name": "w:ind",
+                "type": "element"
+            }
+        ],
+        "name": "w:pPr",
+        "type": "element"
+    }
+}

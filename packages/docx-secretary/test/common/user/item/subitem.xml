@@ -1,0 +1,16 @@
+<w:p w:rsidR="00590E72" w:rsidRDefault="00590E72" w:rsidP="00590E72">
+  <w:pPr>
+    <w:pStyle w:val="a3"/>
+    <w:numPr>
+      <w:ilvl w:val="0"/>
+      <w:numId w:val="2"/>
+    </w:numPr>
+    <w:ind w:firstLineChars="0"/>
+  </w:pPr>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>第一条</w:t>
+  </w:r>
+</w:p>

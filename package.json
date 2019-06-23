@@ -1,0 +1,19 @@
+{
+  "name": "auto-format-entry",
+  "version": "1.0.0",
+  "description": "manage auto-format related packages",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "lerna exec npm install",
+    "build":"lerna run build",
+    "test":"lerna run test",
+    "clean:build":"lerna exec -- rm -rf ./build",
+    "clean":"lerna clean && npm run clean:build",
+    "start":"lerna run start --scope auto-format"
+  },
+  "author": "ianpas",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
+}

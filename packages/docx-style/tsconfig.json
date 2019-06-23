@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "lib": [
+            "es2015",
+            "dom"
+        ],
+        "moduleResolution": "node",
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": true
+    }
+}

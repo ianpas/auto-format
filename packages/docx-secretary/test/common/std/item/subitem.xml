@@ -1,0 +1,12 @@
+<w:p w:rsidR="00D945CF" w:rsidRPr="00461BBA" w:rsidRDefault="00D945CF" w:rsidP="00461BBA">
+  <w:pPr>
+    <w:pStyle w:val="a1"/>
+    <w:ind w:firstLine="480"/>
+  </w:pPr>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>第一项内容，……；</w:t>
+  </w:r>
+</w:p>

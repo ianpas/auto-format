@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se wp14">
+  <w:body>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="1"/>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">绪论</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="2"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">节</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">条</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="2"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">背景意义</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00637B5F" w:rsidRDefault="001B1FB1" w:rsidP="00A327E0">
+      <w:pPr>
+        <w:pStyle w:val="a3"/>
+      </w:pPr>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:rPr/>
+        <w:t>在</w:t>
+      </w:r>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:t>Word中我们有时候需要随便一些的文字来练手，这时可以利用rand来随机产生文字，这里用Word2013版本说明，怎么利用rand让Word随机产生文字？</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="002D286B" w:rsidRDefault="001B1FB1" w:rsidP="002D286B">
+      <w:pPr>
+        <w:pStyle w:val="a3"/>
+      </w:pPr>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:rPr/>
+        <w:t>在</w:t>
+      </w:r>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:t>Word中我们有时候需要随便一些的文字来练手，这时可以利用rand来随机产生文字，这里用Word2013版本说明，怎么利用rand让Word随机产生文字？</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="2"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">研究现状</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">国内</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001B1FB1" w:rsidRPr="001B1FB1" w:rsidRDefault="001B1FB1" w:rsidP="00A327E0">
+      <w:pPr>
+        <w:pStyle w:val="a3"/>
+      </w:pPr>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:rPr/>
+        <w:t>在</w:t>
+      </w:r>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:t>Word中我们有时候需要随便一些的文字来练手，这时可以利用rand来随机产生文字，这里用Word2013版本说明，怎么利用rand让Word随机产生文字？</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">国外</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001B1FB1" w:rsidRDefault="001B1FB1" w:rsidP="00A327E0">
+      <w:pPr>
+        <w:pStyle w:val="a3"/>
+      </w:pPr>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:rPr/>
+        <w:t>在</w:t>
+      </w:r>
+      <w:r w:rsidRPr="001B1FB1">
+        <w:t>Word中我们有时候需要随便一些的文字来练手，这时可以利用rand来随机产生文字，这里用Word2013版本说明，怎么利用rand让Word随机产生文字？</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="1"/>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">新的一章</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="2"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">说明</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="000810B1" w:rsidRPr="000810B1" w:rsidRDefault="000810B1" w:rsidP="000810B1">
+      <w:pPr>
+        <w:pStyle w:val="a3"/>
+      </w:pPr>
+      <w:r>
+        <w:tab/>
+      </w:r>
+      <w:r>
+        <w:rPr/>
+        <w:t>新的一章应该在新的一页。</w:t>
+      </w:r>
+      <w:r w:rsidR="006A5FDE" w:rsidRPr="001B1FB1">
+        <w:rPr/>
+        <w:t>在</w:t>
+      </w:r>
+      <w:r w:rsidR="006A5FDE" w:rsidRPr="001B1FB1">
+        <w:t>Word中我们有时候需要随便一些的文字来练手，这时可以利用rand来随机产生文字，这里用Word2013版本说明，怎么利用rand让Word随机产生文字？</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+      <w:bookmarkEnd w:id="0"/>
+    </w:p>
+  </w:body>
+</w:document>

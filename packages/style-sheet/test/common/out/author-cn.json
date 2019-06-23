@@ -1,0 +1,181 @@
+{
+    "style": {
+        "attributes": {
+            "w:rsidP": "00B47909",
+            "w:rsidR": "00C02E29",
+            "w:rsidRDefault": "00C02E29",
+            "w:rsidRPr": "00FB6D1A"
+        },
+        "elements": [
+            {
+                "elements": [
+                    {
+                        "attributes": {
+                            "w:val": "afa"
+                        },
+                        "name": "w:pStyle",
+                        "type": "element"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "name": "w:vanish",
+                                "type": "element"
+                            },
+                            {
+                                "name": "w:specVanish",
+                                "type": "element"
+                            }
+                        ],
+                        "name": "w:rPr",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:pPr",
+                "type": "element"
+            },
+            {
+                "elements": [
+                    {
+                        "name": "w:tab",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:r",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:rsidRPr": "00B47909"
+                },
+                "elements": [
+                    {
+                        "elements": [
+                            {
+                                "attributes": {
+                                    "w:hint": "eastAsia"
+                                },
+                                "name": "w:rFonts",
+                                "type": "element"
+                            },
+                            {
+                                "attributes": {
+                                    "w:val": "240"
+                                },
+                                "name": "w:spacing",
+                                "type": "element"
+                            },
+                            {
+                                "attributes": {
+                                    "w:val": "0"
+                                },
+                                "name": "w:kern",
+                                "type": "element"
+                            },
+                            {
+                                "attributes": {
+                                    "w:id": "1821032448",
+                                    "w:val": "960"
+                                },
+                                "name": "w:fitText",
+                                "type": "element"
+                            }
+                        ],
+                        "name": "w:rPr",
+                        "type": "element"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "text": "学",
+                                "type": "text"
+                            }
+                        ],
+                        "name": "w:t",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:r",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:rsidRPr": "00B47909"
+                },
+                "elements": [
+                    {
+                        "elements": [
+                            {
+                                "attributes": {
+                                    "w:hint": "eastAsia"
+                                },
+                                "name": "w:rFonts",
+                                "type": "element"
+                            },
+                            {
+                                "attributes": {
+                                    "w:val": "0"
+                                },
+                                "name": "w:kern",
+                                "type": "element"
+                            },
+                            {
+                                "attributes": {
+                                    "w:id": "1821032448",
+                                    "w:val": "960"
+                                },
+                                "name": "w:fitText",
+                                "type": "element"
+                            }
+                        ],
+                        "name": "w:rPr",
+                        "type": "element"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "text": "生",
+                                "type": "text"
+                            }
+                        ],
+                        "name": "w:t",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:r",
+                "type": "element"
+            },
+            {
+                "elements": [
+                    {
+                        "elements": [
+                            {
+                                "attributes": {
+                                    "w:hint": "eastAsia"
+                                },
+                                "name": "w:rFonts",
+                                "type": "element"
+                            }
+                        ],
+                        "name": "w:rPr",
+                        "type": "element"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "text": "：",
+                                "type": "text"
+                            }
+                        ],
+                        "name": "w:t",
+                        "type": "element"
+                    }
+                ],
+                "name": "w:r",
+                "type": "element"
+            }
+        ],
+        "name": "w:p",
+        "type": "element"
+    }
+}

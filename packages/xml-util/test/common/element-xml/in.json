@@ -1,0 +1,114 @@
+{
+    "attributes": {
+        "w:rsidP": "00917DA6",
+        "w:rsidR": "007342FB",
+        "w:rsidRDefault": "000A0944",
+        "w:rsidRPr": "00917DA6"
+    },
+    "elements": [
+        {
+            "type": "element",
+            "attributes": {
+                "w:rsidRPr": "00917DA6"
+            },
+            "elements": [
+                {
+                    "elements": [
+                        {
+                            "attributes": {
+                                "w:hint": "eastAsia"
+                            },
+                            "name": "w:rFonts",
+                            "type": "element"
+                        }
+                    ],
+                    "name": "w:rPr",
+                    "type": "element"
+                },
+                {
+                    "attributes": {
+                        "xml:space": "preserve"
+                    },
+                    "elements": [
+                        {
+                            "text": "第一章 ",
+                            "type": "text"
+                        }
+                    ],
+                    "name": "w:t",
+                    "type": "element"
+                }
+            ],
+            "name": "w:r"
+        },
+        {
+            "attributes": {
+                "w:rsidRPr": "00917DA6",
+                "w:rsidR": "003D6E9C"
+            },
+            "elements": [
+                {
+                    "type": "element",
+                    "elements": [
+                        {
+                            "attributes": {
+                                "w:hint": "eastAsia"
+                            },
+                            "name": "w:rFonts",
+                            "type": "element"
+                        }
+                    ],
+                    "name": "w:rPr"
+                },
+                {
+                    "elements": [
+                        {
+                            "text": "绪论",
+                            "type": "text"
+                        }
+                    ],
+                    "name": "w:t",
+                    "type": "element"
+                }
+            ],
+            "name": "w:r",
+            "type": "element"
+        },
+        {
+            "type": "element",
+            "elements": [
+                {
+                    "attributes": {
+                        "xml:space": "preserve"
+                    },
+                    "elements": [
+                        {
+                            "text": "   ",
+                            "type": "text"
+                        }
+                    ],
+                    "name": "w:t",
+                    "type": "element"
+                }
+            ],
+            "name": "w:r"
+        },
+        {
+            "attributes": {
+                "w:id": "0",
+                "w:name": "_GoBack"
+            },
+            "name": "w:bookmarkStart",
+            "type": "element"
+        },
+        {
+            "type": "element",
+            "attributes": {
+                "w:id": "0"
+            },
+            "name": "w:bookmarkEnd"
+        }
+    ],
+    "name": "w:p",
+    "type": "element"
+}

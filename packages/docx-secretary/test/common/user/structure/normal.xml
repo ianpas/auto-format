@@ -1,0 +1,17 @@
+<w:p w:rsidR="001B1FB1" w:rsidRPr="001B1FB1" w:rsidRDefault="001B1FB1" w:rsidP="00A327E0">
+  <w:pPr>
+    <w:ind w:firstLine="420"/>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+  </w:pPr>
+  <w:r w:rsidRPr="001B1FB1">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>在</w:t>
+  </w:r>
+  <w:r w:rsidRPr="001B1FB1">
+    <w:t>Word中我们有时候需要随便一些的文字来练手，这时可以利用rand来随机产生文字，这里用Word2013版本说明，怎么利用rand让Word随机产生文字？</w:t>
+  </w:r>
+</w:p>

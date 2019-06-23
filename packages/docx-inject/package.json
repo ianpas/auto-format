@@ -1,0 +1,34 @@
+{
+  "name": "docx-inject",
+  "version": "0.0.1",
+  "description": "replace files in docx package",
+  "main": "./build/index.js",
+  "files": [
+    "./build"
+  ],
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "gulp build"
+  },
+  "author": "ianpas",
+  "license": "MIT",
+  "dependencies": {
+    "docx-package": "file:../docx-package",
+    "xml-util": "file:../xml-util"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.2",
+    "@types/node": "^10.10.2",
+    "del": "^3.0.0",
+    "dts-bundle": "^0.7.3",
+    "gulp": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "gulp-util": "^3.0.8",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.1",
+    "typescript": "^3.0.3",
+    "watchify": "^3.11.0"
+  }
+}

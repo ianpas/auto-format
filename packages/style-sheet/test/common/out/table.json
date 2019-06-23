@@ -1,0 +1,93 @@
+{
+    "paragraph_style": {
+        "elements": [
+            {
+                "attributes": {
+                    "w:val": "af"
+                },
+                "name": "w:pStyle",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:hSpace": "0",
+                    "w:vAnchor": "margin",
+                    "w:wrap": "auto",
+                    "w:xAlign": "left",
+                    "w:yAlign": "inline"
+                },
+                "name": "w:framePr",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:val": "0"
+                },
+                "name": "w:suppressOverlap",
+                "type": "element"
+            }
+        ],
+        "name": "w:pPr",
+        "type": "element"
+    },
+    "style": {
+        "elements": [
+            {
+                "attributes": {
+                    "w:val": "ae"
+                },
+                "name": "w:tblStyle",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:bottomFromText": "119",
+                    "w:leftFromText": "181",
+                    "w:rightFromText": "181",
+                    "w:tblpXSpec": "center",
+                    "w:tblpY": "1",
+                    "w:vertAnchor": "text"
+                },
+                "name": "w:tblpPr",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:val": "never"
+                },
+                "name": "w:tblOverlap",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:type": "auto",
+                    "w:w": "0"
+                },
+                "name": "w:tblW",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:val": "left"
+                },
+                "name": "w:jc",
+                "type": "element"
+            },
+            {
+                "attributes": {
+                    "w:firstColumn": "1",
+                    "w:firstRow": "1",
+                    "w:lastColumn": "0",
+                    "w:lastRow": "0",
+                    "w:noHBand": "0",
+                    "w:noVBand": "1",
+                    "w:val": "04A0"
+                },
+                "name": "w:tblLook",
+                "type": "element"
+            }
+        ],
+        "name": "w:tblPr",
+        "type": "element"
+    }
+}

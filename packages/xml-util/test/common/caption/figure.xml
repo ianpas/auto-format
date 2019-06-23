@@ -1,0 +1,91 @@
+<w:p w:rsidR="0062619C" w:rsidRDefault="0062619C" w:rsidP="0062619C">
+  <w:pPr>
+    <w:pStyle w:val="ac"/>
+  </w:pPr>
+  <w:bookmarkStart w:id="0" w:name="_Ref531167258"/>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>图</w:t>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:fldChar w:fldCharType="begin"/>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText>STYLEREF 1 \s</w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:fldChar w:fldCharType="separate"/>
+  </w:r>
+  <w:r w:rsidR="00417A44">
+    <w:rPr>
+      <w:noProof/>
+    </w:rPr>
+    <w:t>1</w:t>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:fldChar w:fldCharType="end"/>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:t>.</w:t>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:fldChar w:fldCharType="begin"/>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText xml:space="preserve">SEQ </w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText>图</w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText xml:space="preserve"> \* ARABIC \s 1</w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:fldChar w:fldCharType="separate"/>
+  </w:r>
+  <w:r w:rsidR="00417A44">
+    <w:rPr>
+      <w:noProof/>
+    </w:rPr>
+    <w:t>1</w:t>
+  </w:r>
+  <w:r w:rsidR="00684374">
+    <w:fldChar w:fldCharType="end"/>
+  </w:r>
+  <w:bookmarkEnd w:id="0"/>
+  <w:r>
+    <w:t xml:space="preserve"> </w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>水分子</w:t>
+  </w:r>
+</w:p>

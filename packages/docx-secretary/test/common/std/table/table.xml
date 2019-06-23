@@ -1,0 +1,247 @@
+<w:tbl>
+  <w:tblPr>
+    <w:tblStyle w:val="ae"/>
+    <w:tblpPr w:leftFromText="181" w:rightFromText="181" w:bottomFromText="238" w:vertAnchor="text" w:tblpXSpec="center" w:tblpY="1"/>
+    <w:tblOverlap w:val="never"/>
+    <w:tblW w:w="0" w:type="auto"/>
+    <w:jc w:val="left"/>
+    <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+  </w:tblPr>
+  <w:tblGrid>
+    <w:gridCol w:w="2198"/>
+    <w:gridCol w:w="2122"/>
+    <w:gridCol w:w="2370"/>
+    <w:gridCol w:w="2371"/>
+  </w:tblGrid>
+  <w:tr w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidTr="009D5DBE">
+    <w:trPr>
+      <w:jc w:val="left"/>
+    </w:trPr>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2198" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>换热器</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2122" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>测试</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2370" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>热边压降损失</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2371" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>冷边压降损失</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+  </w:tr>
+  <w:tr w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidTr="009D5DBE">
+    <w:trPr>
+      <w:jc w:val="left"/>
+    </w:trPr>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2198" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>初级</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2122" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>很长一段文字，很长一段文字，很长一段文字</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2370" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>2974.37</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2371" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>2931.52</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+  </w:tr>
+  <w:tr w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidTr="009D5DBE">
+    <w:trPr>
+      <w:jc w:val="left"/>
+    </w:trPr>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2198" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>次级</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2122" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>无</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2370" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>2924.65</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2371" w:type="dxa"/>
+      </w:tcPr>
+      <w:p w:rsidR="003D74F7" w:rsidRPr="0031632D" w:rsidRDefault="003D74F7" w:rsidP="009D5DBE">
+        <w:pPr>
+          <w:pStyle w:val="af"/>
+          <w:framePr w:hSpace="0" w:wrap="auto" w:vAnchor="margin" w:xAlign="left" w:yAlign="inline"/>
+          <w:suppressOverlap w:val="0"/>
+        </w:pPr>
+        <w:r w:rsidRPr="0031632D">
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:t>3789.76</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+  </w:tr>
+</w:tbl>

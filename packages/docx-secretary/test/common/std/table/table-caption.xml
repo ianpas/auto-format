@@ -1,0 +1,94 @@
+<w:p w:rsidR="0004220F" w:rsidRPr="003A11C0" w:rsidRDefault="0004220F" w:rsidP="0004220F">
+  <w:pPr>
+    <w:pStyle w:val="af0"/>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+  </w:pPr>
+  <w:bookmarkStart w:id="1" w:name="_Ref531683858"/>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>表</w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="begin"/>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText>STYLEREF 1 \s</w:instrText>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="separate"/>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:noProof/>
+    </w:rPr>
+    <w:t>1</w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="end"/>
+  </w:r>
+  <w:r>
+    <w:t>.</w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="begin"/>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText xml:space="preserve">SEQ </w:instrText>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText>表</w:instrText>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:instrText xml:space="preserve"> \* ARABIC \s 1</w:instrText>
+  </w:r>
+  <w:r>
+    <w:instrText xml:space="preserve"> </w:instrText>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="separate"/>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:noProof/>
+    </w:rPr>
+    <w:t>1</w:t>
+  </w:r>
+  <w:r>
+    <w:fldChar w:fldCharType="end"/>
+  </w:r>
+  <w:bookmarkEnd w:id="1"/>
+  <w:r>
+    <w:t xml:space="preserve"> </w:t>
+  </w:r>
+  <w:r w:rsidRPr="009A19BC">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>压降损失计算结果</w:t>
+  </w:r>
+</w:p>

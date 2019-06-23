@@ -1,0 +1,11 @@
+<w:p w:rsidR="000B18D1" w:rsidRDefault="005D5948" w:rsidP="005D5948">
+  <w:pPr>
+    <w:pStyle w:val="af8"/>
+  </w:pPr>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+    </w:rPr>
+    <w:t>此处为论文题目</w:t>
+  </w:r>
+</w:p>
